@@ -1,4 +1,4 @@
-This project explores sales, profit, and customer trends using a real-world retail dataset (Superstore) to uncover key business insights.
+This project explores sales and customer trends using a real-world retail dataset (Superstore) to uncover key business insights.
 
 Objectives:
 Identify top-performing and underperforming products
